@@ -59,6 +59,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sql alchemy" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" alt="selenium" width="80" height="80"/>
 </p>
 
 <h4>Databases</h4>
@@ -78,7 +79,7 @@
 <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="80" height="80"/>
 <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022" alt="powerbi" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" alt="plotly" width="80" height="80"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original-wordmark.svg" alt="streamlit" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" alt="streamlit" width="80" height="80"/>
 </p>
 
 <h4>Version Control & CI/CD</h4>
